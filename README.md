@@ -17,7 +17,7 @@ sudo apt install python3-pip
 
 3. Clonación del repositorio
 ```bash
-git clone https://github.com/jchiroques/g_rac_app.git
+git clone https://github.com/jchiroques/app_grac_window.git
 ```
 
 4. Instalación de lo paquetes necesarios para la aplicacin
